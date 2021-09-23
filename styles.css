@@ -35,10 +35,12 @@ h2 + p {
 	font-weight: 900;
 	color: #f18119;
 	text-transform: uppercase;
+	letter-spacing: 1px;;
 }
 
 .fine-print {
 	font-size: 0.625rem;
+	letter-spacing: 1px;
 }
 
 strong {
