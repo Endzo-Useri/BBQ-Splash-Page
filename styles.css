@@ -64,6 +64,8 @@ strong {
 .intro {
 	background-color: #404040;
 	background-image: url(dark-ribs.jpg);
+	background-size: cover;
+	background-position: center;
 	padding: 0 .25em 1em;
 	display: flex;
 	flex-direction: column;
@@ -85,6 +87,7 @@ strong {
 		 body {
 			 background: plum;
 			 font-size: 1.125rem;
+			 display: flex;
 		 }
 
 		 h1 {
