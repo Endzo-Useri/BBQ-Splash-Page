@@ -70,3 +70,7 @@ strong {
 /* =================
    main-content section 
    ================= */
+
+	 .main-content {
+		 padding: 2em 1em;
+	 }
