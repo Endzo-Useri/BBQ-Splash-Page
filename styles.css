@@ -60,4 +60,6 @@ strong {
 	background-color: #404040;
 	background-image: url(dark-ribs.jpg);
 	padding: 0 .25em 1em;
+	display: flex;
+	flex-direction: column;
 }
