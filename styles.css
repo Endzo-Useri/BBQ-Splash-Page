@@ -81,4 +81,9 @@ strong {
    media queries 
    ================= */
 
-	 
+	 @media (min-width: 500px) {
+		 body {
+			 background: plum;
+			 font-size: 1.125rem;
+		 }
+	 }
