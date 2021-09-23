@@ -7,9 +7,14 @@ body {
 	text-align: center;
 }
 
+/* ================
+   Typography
+	 ================ */
+
 h1 {
 	font-size: 2.25rem;
 	font-weight: 300;
+	color: #fff;
 }
 
 h1 + p {
@@ -50,3 +55,8 @@ strong {
 /* ================
    Intro section
 	 ================ */
+
+.intro {
+	background-image: url(jon-tyson-kctt4tL1dkE-unsplash.jpg);
+
+}
