@@ -102,5 +102,6 @@ strong {
 		 .intro,
 		 .main-content {
 			 width: 50%;
+			 height: 100vh;
 		 }
 	 }
