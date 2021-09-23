@@ -7,9 +7,9 @@ body {
 	text-align: center;
 }
 
-/* ================
-   Typography
-	 ================ */
+/* =================
+   Typography 
+   ================= */
 
 h1 {
 	font-size: 2.25rem;
@@ -55,9 +55,9 @@ strong {
 	font-weight: 900;
 }
 
-/* ================
-   Intro section
-	 ================ */
+/* =================
+   Intro section 
+   ================= */
 
 .intro {
 	background-color: #404040;
@@ -66,3 +66,7 @@ strong {
 	display: flex;
 	flex-direction: column;
 }
+
+/* =================
+   main-content section 
+   ================= */
