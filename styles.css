@@ -85,6 +85,10 @@ strong {
 		 padding: 2em 1em;
 	 }
 
+	 .intro * {
+		 color: red;
+	 }
+
 	 /* =================
    media queries 
    ================= */
