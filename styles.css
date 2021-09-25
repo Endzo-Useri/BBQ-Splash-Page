@@ -19,7 +19,7 @@ h1 {
 	font-size: 2.25rem;
 	font-weight: 300;
 	color: #fff;
-	margin: 2em 0px;
+	margin: 0px;
 }
 
 h1 + p {
@@ -73,6 +73,7 @@ strong {
 	padding: 0 .25em 1em;
 	display: flex;
 	flex-direction: column;
+	justify-content: space-between;
 }
 
 /* =================
