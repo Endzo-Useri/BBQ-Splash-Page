@@ -92,6 +92,11 @@ strong {
 		 margin-right: auto;
 	 }
 
+	 .btn {
+		 padding: .5em 1.5em;
+		 margin: 1em 0;
+	 }
+
 	 /* =================
    media queries 
    ================= */
