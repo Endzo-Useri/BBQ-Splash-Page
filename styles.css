@@ -110,11 +110,11 @@ strong {
 	 input,
 	 .btn {
 		 width: 100%;
-		 text-align: center;
 	 }
 
 	 input {
 		 margin-bottom: .75em;
+		 text-align: center;
 	 }
 
 	 /* =================
