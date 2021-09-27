@@ -107,6 +107,10 @@ strong {
 		 max-width: 300px;
 	 }
 
+	 input {
+		 width: 100%;
+	 }
+
 	 /* =================
    media queries 
    ================= */
