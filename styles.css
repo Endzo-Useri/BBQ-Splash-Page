@@ -113,8 +113,9 @@ strong {
 	 }
 
 	 input {
+		 font-family: inherit;
+		 text-align: inherit;
 		 margin-bottom: .75em;
-		 text-align: center;
 	 }
 
 	 /* =================
