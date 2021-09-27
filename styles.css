@@ -107,7 +107,8 @@ strong {
 		 max-width: 300px;
 	 }
 
-	 input {
+	 input,
+	 .btn {
 		 width: 100%;
 	 }
 
