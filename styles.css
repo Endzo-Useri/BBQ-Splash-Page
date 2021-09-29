@@ -118,9 +118,11 @@ strong {
 
 	 .btn {
 		 display: inline-block;
-		 padding: .25em 1.5em;
+		 padding: .5em 1.5em;
 		 font-size: 0.625rem;
 		 text-transform: uppercase;
+		 font-weight: 900;
+		 background-image: linear-gradient(ff713b, ffa51d);
 	 }
 
 	 /* =================
