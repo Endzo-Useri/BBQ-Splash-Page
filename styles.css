@@ -123,9 +123,12 @@ strong {
 		 text-transform: uppercase;
 		 font-weight: 900;
 		 letter-spacing: 1px;
-		 border: none;
+		 border: 0;
 		 cursor: pointer;
-		 background-image: linear-gradient(ff713b, ffa51d);
+	 }
+
+	 .btn-primary {
+		 background: linear-gradient(ff713b, ffa51d);
 	 }
 
 	 /* =================
