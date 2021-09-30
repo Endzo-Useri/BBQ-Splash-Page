@@ -132,6 +132,10 @@ strong {
 		 color: #fff;
 	 }
 
+	 .btn-primary:hover {
+		 color: #000;
+	 }
+
 	 /* =================
    media queries 
    ================= */
