@@ -50,6 +50,8 @@ h2 + p {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	order: -1;
+	border-top: 5px solid #f18119;
+	margin-top: 0;
 }
 
 .fine-print {
