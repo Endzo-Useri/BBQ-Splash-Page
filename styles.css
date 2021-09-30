@@ -128,13 +128,14 @@ strong {
 	 }
 
 	 .btn-primary {
-		 background: linear-gradient(to left, #ff713b, #ffa51d);
+		 /* background: linear-gradient(to left, #ff713b, #ffa51d); */
+		 background-color: #404040;
 		 color: #fff;
-		 transition: 500ms;
+		 transition: background-color, 250ms;
 	 }
 
 	 .btn-primary:hover {
-		 color: #000;
+		background-color: #f18119;
 	 }
 
 	 /* =================
