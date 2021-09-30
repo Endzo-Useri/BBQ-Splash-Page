@@ -3,7 +3,7 @@
 }
 
 body {
-	background: lightgray;
+	/* background: lightgray; */
 	margin: 0px;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 1rem;
@@ -156,7 +156,7 @@ strong {
 
 	 @media (min-width: 500px) {
 		 body {
-			 background: plum;
+			 /* background: plum; */
 			 font-size: 1.125rem;
 			 display: flex;
 		 }
