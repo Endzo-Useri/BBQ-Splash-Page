@@ -53,6 +53,7 @@ h2 + p {
 	letter-spacing: 1px;
 	order: -1;
 	border-top: 5px solid #f18119;
+	border-image: linear-gradient(to left, #ff713b, #ffa51d) 1;
 }
 
 .fine-print {
@@ -70,7 +71,8 @@ strong {
 
 .intro {
 	background-color: #404040;
-	background-image: url(dark-ribs.jpg);
+	background-image: url(ribs.jpg);
+	background-blend-mode: multiply;
 	background-size: cover;
 	background-position: center;
 	padding: 0 .25em 1em;
