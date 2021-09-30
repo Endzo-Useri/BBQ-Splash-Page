@@ -130,6 +130,7 @@ strong {
 	 .btn-primary {
 		 background: linear-gradient(to left, #ff713b, #ffa51d);
 		 color: #fff;
+		 transition: 500ms;
 	 }
 
 	 .btn-primary:hover {
